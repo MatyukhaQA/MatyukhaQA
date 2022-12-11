@@ -3,13 +3,13 @@ My name is Matyukha Maria and I'm QA Engineer.
 
 ## Languages and tools
 <p align="center">
-<img width="5%"  title="Telegram" src="images/python.png"/>
+<img width="5%"  title="Python" src="images/python.png"/>
 <img width="5%"  title="Selenium" src="images/selenium.png"/>
 <img width="6%"  title="Selene" src="images/selene.png"/>
 <img width="6%"  title="Pytest" src="images/pytest.png"/>
 <img width="6%"  title="Pycharm" src="images/pycharm.png"/>
 <img width="6%"  title="Allure Report" src="images/allure.svg"/>
-<img width="6%"  title="AllureTestOps.png" src="images/AllureTestOps.png"/>
+<img width="6%"  title="AllureTestOps" src="images/AllureTestOps.png"/>
 <img width="6%"  title="Jenkins" src="images/jenkins.svg"/>
 <img width="6%"  title="Appium" src="images/appium.svg"/>
 <img width="6%"  title="Browserstack" src="images/browserstack.svg"/>
