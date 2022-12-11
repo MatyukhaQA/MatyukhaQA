@@ -25,5 +25,5 @@ My name is Matyukha Maria and I'm QA Engineer.
 
 ## Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatyukhaQA&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatyukhaQA&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatyukhaQA&theme=github&utcOffset=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatyukhaQA&theme=github)
