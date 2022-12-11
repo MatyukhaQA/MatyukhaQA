@@ -20,7 +20,7 @@ My name is Matyukha Maria and I'm QA Engineer.
 </p>
 
 ## Contact me
-<a href="https://t.me/matyuha_m"><img width="6%" alt="Telegram" title="Telegram" src="images/tg.svg"/></a>
+<a href="https://t.me/matyuha_m"><img width="6%" alt="Telegram" title="Telegram" src="images/telegram.png"/></a>
 <a href="https://www.linkedin.com/in/maria-matyukha-815859131/"><img width="6%" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png"/></a>
 
 ## QA.GURU diploma projects
