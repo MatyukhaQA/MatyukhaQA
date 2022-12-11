@@ -14,9 +14,9 @@ My name is Matyukha Maria and I'm QA Engineer.
 <img width="6%"  title="Appium" src="images/appium.svg"/>
 <img width="6%"  title="Browserstack" src="images/browserstack.svg"/>
 <img width="6%"  title="Selenoid" src="images/Selenoid.svg"/>
-<img width="6%"  title="PostgreSQL" src="images/Postgresql.png"/>
-<img width="6%"  title="Confluence" src="images/confluence.jpg"/>
-<img width="6%"  title="Jira" src="images/jira.png"/>
+<img width="5%"  title="PostgreSQL" src="images/Postgresql.png"/>
+<img width="5%"  title="Confluence" src="images/confluence.jpg"/>
+<img width="5%"  title="Jira" src="images/jira.png"/>
 </p>
 
 ## Contact me
