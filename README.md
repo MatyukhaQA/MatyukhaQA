@@ -1,7 +1,8 @@
 ## Hi there 👋
-My name is Matyukha Maria and I'm QA Engineer,.
+My name is Matyukha Maria and I'm QA Engineer.
 
 ## Languages and tools
+<p align="center">
 <img width="5%"  title="Telegram" src="images/python.png"/>
 <img width="5%"  title="Selenium" src="images/selenium.png"/>
 <img width="6%"  title="Selene" src="images/selene.png"/>
@@ -16,6 +17,7 @@ My name is Matyukha Maria and I'm QA Engineer,.
 <img width="6%"  title="PostgreSQL" src="images/Postgresql.png"/>
 <img width="6%"  title="Confluence" src="images/confluence.jpg"/>
 <img width="6%"  title="Jira" src="images/jira.png"/>
+</p>
 
 ## Contact me
 <a href="https://t.me/matyuha_m"><img width="6%" alt="Telegram" title="Telegram" src="images/tg.svg"/></a>
