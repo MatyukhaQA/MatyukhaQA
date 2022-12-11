@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 👋
+My name is Matyukha Maria and I'm QA Engineer,.
 
-<!--
-**MatyukhaQA/MatyukhaQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and tools
+<img width="5%"  title="Telegram" src="images/python.png"/>
+<img width="5%"  title="Selenium" src="images/selenium.png"/>
+<img width="6%"  title="Selene" src="images/selene.png"/>
+<img width="6%"  title="Pytest" src="images/pytest.png"/>
+<img width="6%"  title="Pycharm" src="images/pycharm.png"/>
+<img width="6%"  title="Allure Report" src="images/allure.svg"/>
+<img width="6%"  title="AllureTestOps.png" src="images/AllureTestOps.png"/>
+<img width="6%"  title="Jenkins" src="images/jenkins.svg"/>
+<img width="6%"  title="Appium" src="images/appium.svg"/>
+<img width="6%"  title="Browserstack" src="images/browserstack.svg"/>
+<img width="6%"  title="Selenoid" src="images/Selenoid.svg"/>
+<img width="6%"  title="PostgreSQL" src="images/Postgresql.png"/>
+<img width="6%"  title="Confluence" src="images/confluence.jpg"/>
+<img width="6%"  title="Jira" src="images/jira.png"/>
 
-Here are some ideas to get you started:
+## Contact me
+<a href="https://t.me/matyuha_m"><img width="6%" alt="Telegram" title="Telegram" src="images/tg.svg"/></a>
+<a href="https://www.linkedin.com/in/maria-matyukha-815859131/"><img width="6%" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatyukhaQA&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatyukhaQA&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatyukhaQA&theme=github&utcOffset=3)
