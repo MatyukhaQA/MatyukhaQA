@@ -21,7 +21,13 @@ My name is Matyukha Maria and I'm QA Engineer.
 
 ## Contact me
 <a href="https://t.me/matyuha_m"><img width="6%" alt="Telegram" title="Telegram" src="images/tg.svg"/></a>
-<a href="https://www.linkedin.com/in/maria-matyukha-815859131/"><img width="6%" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/maria-matyukha-815859131/"><img width="5%" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png"/></a>
+
+##QA.GURU diploma projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=delikateska-ui-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/delikateska-ui-test-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=hh-mobile-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/hh-mobile-test-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=petstore-api-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/petstore-api-test-project)
 
 ## Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatyukhaQA&theme=github)
