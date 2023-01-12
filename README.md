@@ -25,9 +25,9 @@ My name is Matyukha Maria and I'm QA Engineer.
 
 ## QA.GURU diploma projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=delikateska-ui-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/delikateska-ui-test-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=hh-mobile-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/hh-mobile-test-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=petstore-api-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/petstore-api-test-project)
+(https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=delikateska-ui-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/delikateska-ui-test-project)
+(https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=hh-mobile-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/hh-mobile-test-project)
+(https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=petstore-api-test-project&theme=github&border_color=2b2b2a)](https://github.com/MatyukhaQA/petstore-api-test-project)
 
 
 ## Statistics
