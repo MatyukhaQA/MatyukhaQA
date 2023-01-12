@@ -23,11 +23,6 @@ My name is Matyukha Maria and I'm QA Engineer.
 <a href="https://t.me/matyuha_m"><img width="6%" alt="Telegram" title="Telegram" src="images/telegram.png"/></a>
 <a href="https://www.linkedin.com/in/maria-matyukha-815859131/"><img width="6%" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png"/></a>
 
-## QA.GURU diploma projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&delikateska-ui-test-project=github-readme-stats)](https://github.com/MatyukhaQA/delikateska-ui-test-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=hh-mobile-test-project)](https://github.com/MatyukhaQA/hh-mobile-test-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatyukhaQA&repo=petstore-api-test-project)](https://github.com/MatyukhaQA/petstore-api-test-project)
-
 ## Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatyukhaQA&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatyukhaQA&theme=github&utcOffset=3)
