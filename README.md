@@ -19,6 +19,14 @@ My name is Matyukha Maria and I'm QA Engineer.
 <img width="5%"  title="Jira" src="images/jira.png"/>
 </p>
 
+## QA.GURU diploma projects
+<a href="https://github.com/MatyukhaQA/delikateska-ui-test-project" target="_blank">Проект по автоматизации тестирования UI интернет-магазина Деликатеска.ру</a>
+
+<a href="https://github.com/MatyukhaQA/petstore-api-test-project" target="_blank">Проект по автоматизации тестирования API Petstore</a>
+
+<a href="https://github.com/MatyukhaQA/hh-mobile-test-project" target="_blank">Проект по автоматизации тестирования мобильного приложения hh.ru</a>
+
+
 ## Contact me
 <a href="https://t.me/matyuha_m"><img width="6%" alt="Telegram" title="Telegram" src="images/telegram.png"/></a>
 <a href="https://www.linkedin.com/in/maria-matyukha-815859131/"><img width="6%" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png"/></a>
